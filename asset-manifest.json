@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Text-converter/static/css/main.dccbb191.css",
-    "main.js": "/Text-converter/static/js/main.8ddcb0ec.js",
-    "static/js/155.943d5fb8.chunk.js": "/Text-converter/static/js/155.943d5fb8.chunk.js",
-    "static/js/556.7bf94685.chunk.js": "/Text-converter/static/js/556.7bf94685.chunk.js",
-    "static/js/453.26f61781.chunk.js": "/Text-converter/static/js/453.26f61781.chunk.js",
+    "main.js": "/Text-converter/static/js/main.c8ffe639.js",
+    "static/js/155.cf794bec.chunk.js": "/Text-converter/static/js/155.cf794bec.chunk.js",
+    "static/js/556.b55c193f.chunk.js": "/Text-converter/static/js/556.b55c193f.chunk.js",
+    "static/js/453.09801d62.chunk.js": "/Text-converter/static/js/453.09801d62.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Text-converter/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/Text-converter/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Text-converter/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -12,13 +12,13 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Text-converter/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/Text-converter/index.html",
     "main.dccbb191.css.map": "/Text-converter/static/css/main.dccbb191.css.map",
-    "main.8ddcb0ec.js.map": "/Text-converter/static/js/main.8ddcb0ec.js.map",
-    "155.943d5fb8.chunk.js.map": "/Text-converter/static/js/155.943d5fb8.chunk.js.map",
-    "556.7bf94685.chunk.js.map": "/Text-converter/static/js/556.7bf94685.chunk.js.map",
-    "453.26f61781.chunk.js.map": "/Text-converter/static/js/453.26f61781.chunk.js.map"
+    "main.c8ffe639.js.map": "/Text-converter/static/js/main.c8ffe639.js.map",
+    "155.cf794bec.chunk.js.map": "/Text-converter/static/js/155.cf794bec.chunk.js.map",
+    "556.b55c193f.chunk.js.map": "/Text-converter/static/js/556.b55c193f.chunk.js.map",
+    "453.09801d62.chunk.js.map": "/Text-converter/static/js/453.09801d62.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dccbb191.css",
-    "static/js/main.8ddcb0ec.js"
+    "static/js/main.c8ffe639.js"
   ]
 }
