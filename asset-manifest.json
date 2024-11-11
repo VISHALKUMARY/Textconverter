@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Text-converter/static/css/main.dccbb191.css",
-    "main.js": "/Text-converter/static/js/main.c8ffe639.js",
-    "static/js/155.cf794bec.chunk.js": "/Text-converter/static/js/155.cf794bec.chunk.js",
-    "static/js/556.b55c193f.chunk.js": "/Text-converter/static/js/556.b55c193f.chunk.js",
-    "static/js/453.09801d62.chunk.js": "/Text-converter/static/js/453.09801d62.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Text-converter/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/Text-converter/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Text-converter/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Text-converter/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Text-converter/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/Text-converter/index.html",
-    "main.dccbb191.css.map": "/Text-converter/static/css/main.dccbb191.css.map",
-    "main.c8ffe639.js.map": "/Text-converter/static/js/main.c8ffe639.js.map",
-    "155.cf794bec.chunk.js.map": "/Text-converter/static/js/155.cf794bec.chunk.js.map",
-    "556.b55c193f.chunk.js.map": "/Text-converter/static/js/556.b55c193f.chunk.js.map",
-    "453.09801d62.chunk.js.map": "/Text-converter/static/js/453.09801d62.chunk.js.map"
+    "main.css": "/Textconverter/static/css/main.10a20711.css",
+    "main.js": "/Textconverter/static/js/main.cee5b65a.js",
+    "static/js/155.3ee7a136.chunk.js": "/Textconverter/static/js/155.3ee7a136.chunk.js",
+    "static/js/556.492958f2.chunk.js": "/Textconverter/static/js/556.492958f2.chunk.js",
+    "static/js/453.a3170bda.chunk.js": "/Textconverter/static/js/453.a3170bda.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Textconverter/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Textconverter/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Textconverter/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Textconverter/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Textconverter/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Textconverter/index.html",
+    "main.10a20711.css.map": "/Textconverter/static/css/main.10a20711.css.map",
+    "main.cee5b65a.js.map": "/Textconverter/static/js/main.cee5b65a.js.map",
+    "155.3ee7a136.chunk.js.map": "/Textconverter/static/js/155.3ee7a136.chunk.js.map",
+    "556.492958f2.chunk.js.map": "/Textconverter/static/js/556.492958f2.chunk.js.map",
+    "453.a3170bda.chunk.js.map": "/Textconverter/static/js/453.a3170bda.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dccbb191.css",
-    "static/js/main.c8ffe639.js"
+    "static/css/main.10a20711.css",
+    "static/js/main.cee5b65a.js"
   ]
 }
